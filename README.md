@@ -1,4 +1,26 @@
-C:\Users\naisa\IdeaProjects\MAD_23012011066_practical-1\src\practical_1-1.kt
+import javax.xml.crypto.dsig.spec.HMACParameterSpec
+import javax.xml.stream.events.Characters
+
+fun main() {
+    var a:Int = 10
+    var b:Float = 1.5f
+    var c: Char = 'T'
+    var d: String = "HMS"
+    var e: Boolean = false
+    var f:Double = 98.36
+    var g:Short = -2
+    var h: Long = 3398525432
+    var i:Byte = 127
+    println("a = $a")
+    println("b = $b")
+    println("c = $c")
+    println("d = $d")
+    println("e = $e")
+    println("f = $f")
+    println("g = $g")
+    println("h = $h")
+    println("i = $i")
+}
 <img width="317" height="259" alt="Screenshot 2025-08-15 103142" src="https://github.com/user-attachments/assets/b2bcc0b9-cfeb-4bf3-857f-b9e733db936b" />
 <img width="411" height="178" alt="Screenshot 2025-08-15 103349" src="https://github.com/user-attachments/assets/5a7180ab-88f2-49a7-8b8b-328d4f2f2af2" />
 <img width="524" height="473" alt="Screenshot 2025-08-15 103642" src="https://github.com/user-attachments/assets/a8ba51eb-c885-4669-bebb-267ea566e6a0" />

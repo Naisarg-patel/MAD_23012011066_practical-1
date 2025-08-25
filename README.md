@@ -1,3 +1,4 @@
+<h1>Practical-1: Develop a Kotlin program for demonstrating various programming concepts.</h1>
 <p>	1.Store & Display Values in Different Variables: Create and display variables of different data types, including Integer, Double, Float, Long, Short, Byte, Char, Boolean, and String</p>
 <img width="317" height="259" alt="Screenshot 2025-08-15 103142" src="https://github.com/user-attachments/assets/b2bcc0b9-cfeb-4bf3-857f-b9e733db936b" />
 <p>2.Type Conversion: Perform type conversions such as Integer to Double, String to Integer, and String to Double.</p>

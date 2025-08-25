@@ -1,3 +1,4 @@
+C:\Users\naisa\IdeaProjects\MAD_23012011066_practical-1\src\practical_1-1.kt
 <img width="317" height="259" alt="Screenshot 2025-08-15 103142" src="https://github.com/user-attachments/assets/b2bcc0b9-cfeb-4bf3-857f-b9e733db936b" />
 <img width="411" height="178" alt="Screenshot 2025-08-15 103349" src="https://github.com/user-attachments/assets/5a7180ab-88f2-49a7-8b8b-328d4f2f2af2" />
 <img width="524" height="473" alt="Screenshot 2025-08-15 103642" src="https://github.com/user-attachments/assets/a8ba51eb-c885-4669-bebb-267ea566e6a0" />
